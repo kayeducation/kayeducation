@@ -5,8 +5,10 @@
     box-sizing: border-box;
 }
 body{
-    background: url(Himalaya.webp) no-repeat center center fixed; 
-    background-size: 100% 100% cover;
+    background: url(Himalaya.webp);
+    background-attachment:fixed; 
+    background-repeat:repeat;
+    background-size:100% 100% cover;
 }
 .logo{
     height:139px;
