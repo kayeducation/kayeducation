@@ -196,7 +196,7 @@ input[type=Button]{
     margin-right:-1px;
     margin-left:32px;
     margin-top:26px;
-    height:900px;
+    height:1100px;
     backdrop-filter:blur(5px);
 }
 .column7{
@@ -224,4 +224,27 @@ input[type=Button]{
 }
 .Aservice:hover{
     text-decoration: underline;
+}
+.address{
+border:0;
+width:40%;
+font-size:17px;
+margin-left:14px;
+background-color:transparent;
+border-bottom:14px;
+border-bottom:2px solid #04AA6D;
+}
+.address1{
+    border:0;
+    width:45%;
+    font-size:17px;
+    margin-left:18px;
+    background-color:transparent;
+    border-bottom:1px;
+    border-bottom:2px solid #04AA6D;
+}
+.Message{
+    margin-right:-18px;
+    background-color: transparent;
+    border:2px solid  #04AA6D;
 }
