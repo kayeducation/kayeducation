@@ -90,9 +90,8 @@ a:link{
 }
 
 .column {
-  float: left;
-  width: 30.0%;
-  padding:1px;
+    float:left;
+  width: 30%;
   border-radius:20px;
   text-align:center;
   background-color:rgba(231, 231, 231, 0.63);
