@@ -5,10 +5,10 @@
     box-sizing: border-box;
 }
 body{
-    background: url(Himalaya.webp);
+    background: url("Untitled design.jpg");
     background-attachment:fixed; 
-    background-repeat:repeat;
-    background-size:100% 100% cover;
+    background-repeat:no-repeat;
+    background-size:cover;
     max-width: 100%;
 }
 .logo{
@@ -23,7 +23,7 @@ body{
 .background{
     margin-top:1px;
     position:fixed;
-    background-color:rgba(255, 254, 254, 0.726);
+    background-color:rgba(255, 254, 254, 0.89);
     height: 118px;
     width: 100%;
     margin-bottom:128px;
@@ -118,7 +118,7 @@ a:link{
   padding:1px;
   border-radius:20px;
   text-align:center;
-  background-color:rgba(231, 231, 231, 0.37);
+  background-color:rgba(231, 231, 231, 0.63);
   margin-right:22px;
   margin-left:25px;
   margin-top:26px;
